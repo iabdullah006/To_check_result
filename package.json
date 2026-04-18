@@ -1,0 +1,15 @@
+{
+  "name": "bise-result-checker",
+  "version": "1.0.0",
+  "description": "BISE Sahiwal Smart Result Checker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0",
+    "uuid": "^9.0.0"
+  }
+}
